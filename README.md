@@ -16,3 +16,4 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 ## Resources 
 https://sparkbyexamples.com/spark/spark-drop-dataframe-from-cache/
 https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrameWriter.parquet.html
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fjournal.firsttuesday.us%2Fhome-sales-volume-and-price-peaks%2F692%2F&psig=AOvVaw3-Rw9rWQ51V87GUGGTh7mp&ust=1684178693766000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDMkNfE9f4CFQAAAAAdAAAAABAL (photo)
